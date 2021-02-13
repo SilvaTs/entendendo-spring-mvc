@@ -6,6 +6,7 @@
 Nesse projeto foi utilizado alguns conceitos básico para entender um pouco do 
 Spring MVC com Thymeleaf para desenvolver um cadastro e uma lista simples.
 
+ ---
  
 ## 🚀 Tecnologias e Ferramentas utilizadas
  - Spring Web MVC com Thymeleaf : No Desenvolvimento Web.
